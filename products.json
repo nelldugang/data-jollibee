@@ -1,0 +1,115 @@
+{
+  "products": {
+    "foods": [
+      {
+        "foodName": "1 - pc. Chickenjoy w/ Regular fries & Half Jolly Spaghetti Super Meal",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 100,
+        "img": "./chickspagfriesrice.png",
+        "type": "Super Meals",
+        "drink": "Yes",
+        "id": 73930385
+      },
+      {
+        "foodName": "1 - pc. Chickenjoy w/ Burger Streak & Half Jolly Spaghetti Super Meal",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 200,
+        "img": "./chickspagsteakrice.png",
+        "type": "Super Meals",
+        "drink": "Yes",
+        "id": 17806751
+      },
+      {
+        "foodName": "Yumburger, Half Jolly Spaghetti & Reg. Fries Super Meal",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 300,
+        "img": "./spagburgfries.png",
+        "type": "Super Meals",
+        "drink": "Yes",
+        "id": 17806752
+      },
+      {
+        "foodName": "Crunchy Chicken Sandwich",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 400,
+        "img": "./chickensandalacarte.png",
+        "type": "Chicken Sandwich",
+        "drink": "No",
+        "id": 73930383
+      },
+      {
+        "foodName": "Crunchy Chicken Sandwich w/ Drink",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 200,
+        "img": "./chickensandwithdrink.png",
+        "type": "Chicken Sandwich",
+        "drink": "Yes",
+        "id": 17806754
+      },
+      {
+        "foodName": "Crunchy Chicken Sandwich w/ Fries and Drink",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 100,
+        "img": "./chickensandwithdrinkfries.png",
+        "type": "Chicken Sandwich",
+        "drink": "Yes",
+        "id": 17806755
+      },
+      {
+        "foodName": "Chicken Sandwich Supreme",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 100,
+        "img": "./chickensandsupreme.png",
+        "type": "Chicken Sandwich",
+        "drink": "No",
+        "id": 17806756
+      },
+      {
+        "foodName": "Chicken Sandwich Supreme w/ Fries and Drink",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a fermentum purus. Maecenas aliquam est et mauris venenatis, vel feugiat turpis sagittis.",
+        "price": 200,
+        "img": "./chickensandsupremewithdrinkfries.png",
+        "type": "Chicken Sandwich",
+        "drink": "Yes",
+        "id": 17806757
+      }
+    ],
+    "drinks": [
+      {
+        "drinkName": "Coke",
+        "drinkImg": "./coke.png",
+        "id": 1
+      },
+      {
+        "drinkName": "Royal",
+        "drinkImg": "./royal.png",
+        "id": 2
+      },
+      {
+        "drinkName": "Sprite",
+        "drinkImg": "./sprite.png",
+        "id": 3
+      }
+    ],
+    "addOns": [
+      {
+        "addOnsName": "Fries",
+        "addOnsImg": "./fries.png",
+        "price": 20,
+        "id": 4
+      },
+      {
+        "addOnsName": "Ice cream",
+        "addOnsImg": "./icecream.png",
+        "price": 30,
+        "id": 5
+      },
+      {
+        "addOnsName": "Soup",
+        "addOnsImg": "./soup.png",
+        "price": 50,
+        "id": 6
+      }
+    ]
+  }
+}
